@@ -20,3 +20,5 @@ To create a tamper-proof, transparent, and decentralized platform for secure dig
 - Frontend DApp integration for real-time interactions
 - Voting anonymization using zero-knowledge proofs
 Contract Address:0xd9145CCE52D386f254917e481eB44e9943F39138
+
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/4fb163cd-e352-4b6d-a521-3f9f67d4282f" />
